@@ -1,0 +1,80 @@
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.exe
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.deps.json
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.runtimeconfig.json
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.pdb
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem_MarkupCompile.cache
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem_MarkupCompile.lref
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.g.resources
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.AssemblyInfoInputs.cache
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.AssemblyInfo.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\refint\Bankovni sistem.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.pdb
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.genruntimeconfig.cache
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\ref\Bankovni sistem.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.dll.config
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.AssemblyReference.cache
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.CopyComplete
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\OtvaranjeRacuna.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\OtvaranjeRacuna.baml
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Deposit.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Deposit.baml
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Withdrawal.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Withdrawal.baml
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Transfer.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Transfer.baml
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Proverastanja.g.cs
+C:\Users\Ouroboros\source\repos\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Proverastanja.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.exe
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.dll.config
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.deps.json
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.runtimeconfig.json
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Bankovni sistem.pdb
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.AssemblyReference.cache
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Deposit.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\OtvaranjeRacuna.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Proverastanja.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Transfer.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Withdrawal.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem_MarkupCompile.cache
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem_MarkupCompile.lref
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Deposit.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\OtvaranjeRacuna.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Proverastanja.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Transfer.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Withdrawal.baml
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.g.resources
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.AssemblyInfoInputs.cache
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.AssemblyInfo.cs
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.CoreCompileInputs.cache
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.csproj.CopyComplete
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\refint\Bankovni sistem.dll
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.pdb
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\Bankovni sistem.genruntimeconfig.cache
+C:\Users\Ouroboros\Desktop\Bankovni sistem\Bankovni sistem\obj\Debug\net8.0-windows\ref\Bankovni sistem.dll

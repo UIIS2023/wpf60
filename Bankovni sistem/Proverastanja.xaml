@@ -1,0 +1,15 @@
+﻿<Window x:Class="Bankovni_sistem.Proverastanja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bankovni_sistem"
+        mc:Ignorable="d"
+        Title="Proverastanja" Height="165" Width="288">
+    <Grid>
+        <Label Content="Unesite broj naloga" HorizontalAlignment="Left" Margin="61,10,0,0" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="Tb1" HorizontalAlignment="Left" Margin="66,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Unesi" HorizontalAlignment="Left" Margin="66,82,0,0" VerticalAlignment="Top" Width="137" Click="Button_Click"/>
+
+    </Grid>
+</Window>
